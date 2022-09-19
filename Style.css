@@ -7,9 +7,16 @@ img
     object-fit: cover;
     border-radius: 50%;
 }
+h1{
 
+    font-style: bold;
+    font-family: 'Times New Roman', Times, serif;
+
+}
 h2{
     font-style: italic;
+    font-style: bold;
+    font-family: fantasy;
 }
 p{
     font-style: oblique;
