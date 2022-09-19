@@ -58,6 +58,11 @@ ul{
     border-radius: 0;
 }
 
+#leah h1, h2, p {
+    font-style: normal;
+    font-family: "Times New Roman", Times, serif;
+}
+
 #leah h1 {
     height: 40px;
     margin: 20px 0;
