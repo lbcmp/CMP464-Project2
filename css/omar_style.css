@@ -6,27 +6,25 @@ img
     margin: 20px;
     object-fit: cover;
     border-radius: 50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
 a{
     font-size: larger;
-
 }
 h1{
-
     font-style: bold;
-    font-family: 'Times New Roman', Times, serif;
-
-}
-h2{
-    font-style: italic;
-    font-style: bold;
-    font-family: fantasy;
+    font-family: monospace;
 }
 p{
-    font-style: oblique;
+    font-size: larger;
+    font-family: monospace;
+    text-align: justify;
+    text-justify: inter-word;
 }
-
 ul{
+    font-size: larger;
     list-style: circle;
-    font-style: oblique;
+    font-family: monospace;
 }
